@@ -11,7 +11,6 @@
   inputs.src-honeycomb-v0_1_0.ref   = "refs/tags/v0.1.0";
   inputs.src-honeycomb-v0_1_0.owner = "KatrinaKitten";
   inputs.src-honeycomb-v0_1_0.repo  = "honeycomb";
-  inputs.src-honeycomb-v0_1_0.dir   = "";
   inputs.src-honeycomb-v0_1_0.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
