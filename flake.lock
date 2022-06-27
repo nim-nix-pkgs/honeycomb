@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656283737,
-        "narHash": "sha256-mbJrqS30zXaO0hg1MZnF/decJ9sXFA+IFhxTR2IgJEE=",
+        "lastModified": 1656297769,
+        "narHash": "sha256-mypAs+DMDBLnFoNuH4NOZsJ4bMVJeVdoZaOLbrzqusY=",
         "owner": "nim-nix-pkgs",
         "repo": "honeycomb",
-        "rev": "2035b7f6ba4d17b0d8f99e0bb121d277cce074e7",
+        "rev": "b1c50d531a8155d474055464a46cf6c7cfeee886",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v0_1_0",
-        "lastModified": 1656283737,
-        "narHash": "sha256-mbJrqS30zXaO0hg1MZnF/decJ9sXFA+IFhxTR2IgJEE=",
+        "lastModified": 1656297769,
+        "narHash": "sha256-mypAs+DMDBLnFoNuH4NOZsJ4bMVJeVdoZaOLbrzqusY=",
         "owner": "nim-nix-pkgs",
         "repo": "honeycomb",
-        "rev": "2035b7f6ba4d17b0d8f99e0bb121d277cce074e7",
+        "rev": "b1c50d531a8155d474055464a46cf6c7cfeee886",
         "type": "github"
       },
       "original": {
@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "v0_1_1",
-        "lastModified": 1656283737,
-        "narHash": "sha256-mbJrqS30zXaO0hg1MZnF/decJ9sXFA+IFhxTR2IgJEE=",
+        "lastModified": 1656297769,
+        "narHash": "sha256-mypAs+DMDBLnFoNuH4NOZsJ4bMVJeVdoZaOLbrzqusY=",
         "owner": "nim-nix-pkgs",
         "repo": "honeycomb",
-        "rev": "2035b7f6ba4d17b0d8f99e0bb121d277cce074e7",
+        "rev": "b1c50d531a8155d474055464a46cf6c7cfeee886",
         "type": "github"
       },
       "original": {
@@ -114,11 +114,11 @@
       },
       "locked": {
         "dir": "v0_1_2",
-        "lastModified": 1656283737,
-        "narHash": "sha256-mbJrqS30zXaO0hg1MZnF/decJ9sXFA+IFhxTR2IgJEE=",
+        "lastModified": 1656297769,
+        "narHash": "sha256-mypAs+DMDBLnFoNuH4NOZsJ4bMVJeVdoZaOLbrzqusY=",
         "owner": "nim-nix-pkgs",
         "repo": "honeycomb",
-        "rev": "2035b7f6ba4d17b0d8f99e0bb121d277cce074e7",
+        "rev": "b1c50d531a8155d474055464a46cf6c7cfeee886",
         "type": "github"
       },
       "original": {
@@ -154,11 +154,11 @@
     "src-honeycomb-master": {
       "flake": false,
       "locked": {
-        "lastModified": 1640906913,
-        "narHash": "sha256-rP51bOz0+A+uciS5I9Rzhh0XhdgkdioTovRMzyeRHAQ=",
+        "lastModified": 1655763653,
+        "narHash": "sha256-ZEEctyXcNWgkl5OFF03kjZFWqelHIf4MiMzXDWmUvRE=",
         "owner": "KatrinaKitten",
         "repo": "honeycomb",
-        "rev": "ea10bf45b83e3f703366875517e74672637a3c0b",
+        "rev": "84ec624169aafcc47fb6e0b9d1b499d1c916c515",
         "type": "github"
       },
       "original": {
