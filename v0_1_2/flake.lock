@@ -37,10 +37,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-honeycomb-master": "src-honeycomb-master"
+        "src-honeycomb-v0_1_2": "src-honeycomb-v0_1_2"
       }
     },
-    "src-honeycomb-master": {
+    "src-honeycomb-v0_1_2": {
       "flake": false,
       "locked": {
         "lastModified": 1655763653,
@@ -52,7 +52,7 @@
       },
       "original": {
         "owner": "KatrinaKitten",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.1.2",
         "repo": "honeycomb",
         "type": "github"
       }
